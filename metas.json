@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "value": "andar",
+    "checked": true
+  },
+  {
+    "value": "tomar água",
+    "checked": false
+  },
+  {
+    "value": "correr",
+    "checked": true
+  },
+  {
+    "value": "digirir",
+    "checked": false
+  },
+  {
+    "value": "estudar",
+    "checked": true
+  }
+]
